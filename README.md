@@ -1,1 +1,2 @@
-# PCA_RF_python
+# Python codes  for classifying fault distribution images with PCA and RF.
+We included Jupyter Notebook ipython scripts for readers to easily reproduce our ML algorithm, classification results, and figures presented in the manuscript. We placed each executable file in each folder to the eproduce corresponding figure including CNN code. For instance, to view Figure 2 and its algorithm, please open Folder 2 and execute run2.ipynb. We used Python 3.7.4. If you run the executable files, the necessary modules (e.g., scikit-learn, numpy, and so on) are automatically installed.
